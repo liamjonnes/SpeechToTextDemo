@@ -1,3 +1,4 @@
+//Credit: http://mrbool.com/how-to-create-an-speechtotext-app-for-android/26279
 package com.example.liam.speechtotextdemo;
 
 import android.os.Bundle;
@@ -14,9 +15,6 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-/**
- * Credit due to: http://mrbool.com/how-to-create-an-speechtotext-app-for-android/26279
- */
 public class MainActivity extends AppCompatActivity {
 
     protected static final int RESULT_SPEECH = 1;
