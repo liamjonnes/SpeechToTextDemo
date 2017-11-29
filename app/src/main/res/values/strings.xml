@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpeechToTextDemo</string>
+    <string name="speak" />
+    <string name="title_activity_speech_spoken">SpeechSpoken</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
